@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title> Say What? </title>
+
+<script language = "Javacscript">
+
+        var a = 8;
+        var b = 11;
+        var total;
+        
+        total = 2*a+b;
+        console.log(total)
+</script>
+</head>
+
+<body>
+<h1> HelloWorld </h1>
+</body>
+
+</html>
